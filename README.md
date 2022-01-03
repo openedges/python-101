@@ -7,7 +7,6 @@ python -m venv venv
 # Activate VirtualEnv
 
 ```
-python -m venv venv
 source venv/bin/activate
 ```
 
